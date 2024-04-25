@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "complete-table\"": {
+            "context": "td"
+        },
+        "*class": {
+            "context": "table"
+        }
+    }
+}
